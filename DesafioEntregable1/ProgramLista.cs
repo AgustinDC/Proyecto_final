@@ -6,7 +6,7 @@ namespace DesafioEntregable1
         static void Main(String[] args)
         {
             //Programa para recorrer una lista.
-            List<Usuario> listaDeUsuarios = new List<Usuario>();
+            /*List<Usuario> listaDeUsuarios = new List<Usuario>();
 
             while (usuario.Nombre.ToUpper() != "FIN")
             {
@@ -26,7 +26,7 @@ namespace DesafioEntregable1
                     Console.WriteLine("Encontre a AGUSTIN, se termino");
                     break;
                 }
-            }
+            }*/
             
         }
     }
