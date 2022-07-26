@@ -1,0 +1,15 @@
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.csproj.AssemblyReference.cache
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.AssemblyInfoInputs.cache
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.AssemblyInfo.cs
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.csproj.CoreCompileInputs.cache
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\bin\Debug\net6.0\DesafioEntregable1.exe
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\bin\Debug\net6.0\DesafioEntregable1.deps.json
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\bin\Debug\net6.0\DesafioEntregable1.runtimeconfig.json
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\bin\Debug\net6.0\DesafioEntregable1.dll
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\bin\Debug\net6.0\DesafioEntregable1.pdb
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.dll
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\refint\DesafioEntregable1.dll
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.pdb
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\DesafioEntregable1.genruntimeconfig.cache
+C:\Users\Agus DC\source\repos\DesafioEntregable1\DesafioEntregable1\obj\Debug\net6.0\ref\DesafioEntregable1.dll
